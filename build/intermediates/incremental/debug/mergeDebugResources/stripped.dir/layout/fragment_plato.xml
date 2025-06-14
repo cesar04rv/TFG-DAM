@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="0dp"
+    android:background="@color/colorOnBackground"
+    >
+
+    <!-- Botones Crear / Editar / Eliminar -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:paddingTop="24dp">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnCrearPlato"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nuevo"
+            android:backgroundTint="@color/colorPrimary" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnEditarPlato"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Editar"
+            android:layout_marginStart="16dp"
+            android:backgroundTint="@color/colorPrimary" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnEliminarPlato"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eliminar"
+            android:layout_marginStart="16dp"
+            android:backgroundTint="@color/colorPrimary" />
+    </LinearLayout>
+
+
+    <!-- Botón Volver -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnVolverGeneral"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:icon="@drawable/ic_arrow_back"
+        style="@style/Widget.Material3.Button.TextButton"
+        app:iconSize="36dp"
+        android:text=""
+        android:layout_marginTop="12dp"
+        android:visibility="visible" />
+
+    <!-- Layout para la carta clásica -->
+    <ScrollView
+        android:id="@+id/scrollCarta"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:id="@+id/layoutListadoPlatos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="24dp"/>
+    </ScrollView>
+
+    <!-- Layout Crear -->
+    <LinearLayout
+        android:id="@+id/layoutCrear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:visibility="gone">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editNombreCrear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nombre" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editPrecioCrear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Precio"
+                android:inputType="numberDecimal" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editCategoriaCrear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Categoría" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="12dp">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnGuardarPlato"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorPrimary"
+                android:text="Guardar" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnActualizarPlato"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:text="Actualizar"
+                android:visibility="gone"
+                android:backgroundTint="@color/colorPrimary" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- RecyclerView para editar y eliminar -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerPlatosGlobal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:visibility="gone"
+        android:paddingTop="16dp"/>
+</LinearLayout>

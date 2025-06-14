@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="@color/colorOnBackground"
+    >
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tvFechaComanda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fecha"
+        android:textStyle="bold"
+        />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tvMesaComanda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mesa" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tvPrecioComanda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Precio" />
+
+
+</LinearLayout>

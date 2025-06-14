@@ -1,0 +1,61 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorOnBackground"
+    >
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorSurface"
+        app:title="Detalle Comanda"
+        app:titleCentered="true"
+        android:theme="@style/ThemeOverlay.Material3.ActionBar" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnVolver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:icon="@drawable/ic_arrow_back"
+        style="@style/Widget.Material3.Button.TextButton"
+        app:iconSize="36dp"
+        android:text=""
+        android:layout_marginTop="12dp"
+        android:visibility="visible"  />
+
+
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tvTrabajadorDetalle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trabajador: -"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingBottom="8dp" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tvFechaDetalle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fecha: -"
+        android:paddingBottom="8dp" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tvTotalDetalle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Total: -"
+        android:paddingBottom="16dp"
+        android:textSize="16sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerPlatosDetalle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

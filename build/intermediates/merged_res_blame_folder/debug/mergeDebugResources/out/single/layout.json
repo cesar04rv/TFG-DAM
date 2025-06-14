@@ -1,122 +1,118 @@
 [
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_main.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/item_empleado_vista.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/item_empleado_vista.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\item_comanda_contabilidad.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_comanda_contabilidad.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/activity_plato_host.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/activity_plato_host.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_qr_carta.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_qr_carta.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/activity_register.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\activity_register.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_register.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_lista_comandas_contabilidad.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_lista_comandas_contabilidad.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_empleados.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_empleados.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_comandas_hoy.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_comandas_hoy.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_login.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/item_empleado.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/item_empleado.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\item_mi_comanda.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_mi_comanda.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_comandas_finalizadas.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_comandas_finalizadas.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\item_categoria_card.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_categoria_card.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/activity_gestion.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/activity_gestion.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_crear_comanda.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_crear_comanda.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/activity_login.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\item_empleado.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_empleado.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/item_mi_comanda.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/item_mi_comanda.xml"
     },
     {
         "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_empleados.xml",
         "source": "com.cesar.tfg.app-main-7:/layout/fragment_empleados.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_editar_comanda.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_editar_comanda.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_qr_carta.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_qr_carta.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_detalle_comanda.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_detalle_comanda.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_editar_comanda.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_editar_comanda.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\item_empleado_vista.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_empleado_vista.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/item_plato_comanda.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/item_plato_comanda.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_mis_comandas.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_mis_comandas.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/item_categoria_card.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/item_categoria_card.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\item_header_categoria.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_header_categoria.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_lista_comandas_contabilidad.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_lista_comandas_contabilidad.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/activity_comandas.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/activity_comandas.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_contabilidad_por_fechas.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_contabilidad_por_fechas.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/content_activity_plato_host.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/content_activity_plato_host.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_comandas_inicio.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_comandas_inicio.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/item_plato.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/item_plato.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_comandas_finalizadas.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_comandas_finalizadas.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_contabilidad_por_fechas.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_contabilidad_por_fechas.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\activity_gestion.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_gestion.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_gestion_contabilidad.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_gestion_contabilidad.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\item_plato_comanda.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_plato_comanda.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_crear_comanda.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_crear_comanda.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_gestion_contabilidad.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_gestion_contabilidad.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_plato.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_plato.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_plato.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_plato.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_mis_comandas.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_mis_comandas.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\activity_plato_host.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_plato_host.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/item_plato_vista.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/item_plato_vista.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\item_plato_vista.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_plato_vista.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/item_comanda_contabilidad.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/item_comanda_contabilidad.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\content_activity_plato_host.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\content_activity_plato_host.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_detalle_comanda.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_detalle_comanda.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\fragment_comandas_hoy.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_comandas_hoy.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/item_header_categoria.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/item_header_categoria.xml"
     },
     {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\activity_comandas.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_comandas.xml"
-    },
-    {
-        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-mergeDebugResources-4:\\layout\\item_plato.xml",
-        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_plato.xml"
+        "merged": "com.cesar.tfg.app-mergeDebugResources-4:/layout/fragment_comandas_inicio.xml",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_comandas_inicio.xml"
     }
 ]
