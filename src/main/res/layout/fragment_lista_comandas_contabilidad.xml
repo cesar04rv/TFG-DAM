@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/colorOnBackground"
+    >
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnToggleOrden"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alternar orden"
+        android:visibility="visible" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnFinalizarTodas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Finalizar todas las comandas activas"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:textColor="@android:color/white" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tvIngresosTotales"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ingresos totales: 0 €"
+        android:textSize="18sp"
+        android:paddingTop="12dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerContabilidad"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+</LinearLayout>

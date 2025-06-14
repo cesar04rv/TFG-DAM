@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480132441613",
+    "project_id": "tfgdam-407ab",
+    "storage_bucket": "tfgdam-407ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480132441613:android:720ef0e321c391f5f85744",
+        "android_client_info": {
+          "package_name": "com.cesar.tfg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_DfTqCwHSMI6R1WN4ddvmsIGHcnQa-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

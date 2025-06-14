@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TFG" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Fondo global -->
+
+
+        <!-- COLORES GLOBALES -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+
+        <item name="colorSurface">@android:color/white</item>
+        <item name="colorOnSurface">@color/colorPrimary</item>
+
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+
+        <!-- Botones, campos, etc. heredan esto automáticamente -->
+    </style>
+
+    <style name="Theme.TFG" parent="Base.Theme.TFG" />
+
+    <!-- Estilo para checkbox -->
+    <style name="CheckboxOverlay" parent="">
+        <item name="materialThemeOverlay">@style/CheckboxOverlay</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="colorOnSurface">@color/colorPrimary</item>
+        <item name="colorSurface">@android:color/white</item>
+    </style>
+
+    <style name="ThemeOverlay.CheckboxAzul" parent="">
+        <item name="checkboxStyle">@style/Widget.CheckboxAzul</item>
+    </style>
+
+    <style name="Widget.CheckboxAzul" parent="Widget.Material3.CompoundButton.CheckBox">
+        <item name="buttonTint">@color/checkbox_tint</item>
+    </style>
+
+    <!-- Overlay para aplicar colorPrimary al DatePicker -->
+    <style name="ThemeOverlay.MyDatePicker" parent="ThemeOverlay.Material3.MaterialCalendar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="materialCalendarTheme">@style/CustomMaterialCalendar</item>
+    </style>
+
+    <style name="CustomMaterialCalendar" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSurface">@android:color/white</item>
+        <item name="colorOnSurface">@color/colorPrimary</item>
+    </style>
+
+    <style name="WhiteCardStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@android:color/white</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardCornerRadius">12dp</item>
+    </style>
+
+    <style name="CustomWhiteDialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="backgroundTint">@android:color/white</item>
+    </style>
+
+</resources>
