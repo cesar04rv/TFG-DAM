@@ -17,7 +17,6 @@
         android:orientation="vertical"
         android:background="@color/colorOnBackground">
 
-        <!-- Fila superior con Cerrar sesión -->
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -42,7 +41,6 @@
                 app:layout_constraintTop_toTopOf="parent" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
-        <!-- Card: Comandas -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/cardComandas"
             android:layout_marginTop="100dp"
@@ -63,7 +61,6 @@
                 android:textStyle="bold" />
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- Card: Gestión -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/cardGestion"
             android:layout_width="match_parent"

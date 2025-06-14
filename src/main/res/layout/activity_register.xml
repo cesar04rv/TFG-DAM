@@ -37,7 +37,6 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent" />
 
-            <!-- Campos de texto -->
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/registerName"
                 android:layout_width="0dp"
@@ -93,7 +92,6 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="12dp" />
 
-            <!-- Botones -->
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/RegisterButton"
                 android:layout_width="0dp"

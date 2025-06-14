@@ -12,7 +12,6 @@
     android:background="@color/colorOnBackground"
     >
 
-    <!-- Botones Crear / Editar / Eliminar -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -45,7 +44,6 @@
     </LinearLayout>
 
 
-    <!-- Botón Volver -->
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnVolverGeneral"
         android:layout_width="wrap_content"
@@ -57,7 +55,6 @@
         android:layout_marginTop="12dp"
         android:visibility="visible" />
 
-    <!-- Layout para la carta clásica -->
     <ScrollView
         android:id="@+id/scrollCarta"
         android:layout_width="match_parent"
@@ -73,7 +70,6 @@
             android:paddingTop="24dp"/>
     </ScrollView>
 
-    <!-- Layout Crear -->
     <LinearLayout
         android:id="@+id/layoutCrear"
         android:layout_width="match_parent"
@@ -138,7 +134,6 @@
         </LinearLayout>
     </LinearLayout>
 
-    <!-- RecyclerView para editar y eliminar -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerPlatosGlobal"
         android:layout_width="match_parent"

@@ -7,7 +7,7 @@
     android:background="@color/colorOnBackground"
     >
 
-    <!-- Título principal -->
+
     <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -27,7 +27,7 @@
             android:textStyle="bold" />
     </com.google.android.material.card.MaterialCardView>
 
-    <!-- Barra superior con botones -->
+
     <LinearLayout
         android:id="@+id/layoutBarraSuperior"
         android:layout_width="match_parent"
@@ -64,7 +64,7 @@
             android:textColor="@android:color/white" />
     </LinearLayout>
 
-    <!-- Lista de platos añadidos -->
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerResumen"
         android:layout_width="match_parent"
@@ -72,7 +72,7 @@
         android:layout_weight="0.50"
         android:paddingBottom="8dp" />
 
-    <!-- Zona inferior para categorías o platos -->
+
     <FrameLayout
         android:id="@+id/platosContainer"
         android:layout_width="match_parent"

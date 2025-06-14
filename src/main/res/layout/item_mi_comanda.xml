@@ -17,7 +17,6 @@
         android:background="@android:color/white"
         >
 
-        <!-- Nombre del trabajador -->
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/tvResumenComanda"
             android:layout_width="match_parent"
@@ -28,7 +27,6 @@
             android:lineSpacingExtra="4dp"
             android:paddingBottom="8dp" />
 
-        <!-- Botones -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

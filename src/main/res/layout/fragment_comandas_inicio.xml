@@ -14,7 +14,6 @@
         android:background="@color/colorOnBackground"
         >
 
-        <!-- Fila superior con Volver y Cerrar sesión -->
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -54,7 +53,6 @@
                 app:layout_constraintTop_toTopOf="parent" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
-        <!-- Card: Nueva Comanda -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/cardNuevaComanda"
             android:layout_width="match_parent"
@@ -74,7 +72,6 @@
                 android:textStyle="bold" />
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- Card: Comandas de Hoy -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/cardComandasHoy"
             android:layout_width="match_parent"
@@ -95,7 +92,6 @@
                 android:textStyle="bold" />
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- Card: Mis Comandas -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/cardMisComandas"
             android:layout_width="match_parent"
@@ -115,8 +111,6 @@
                 android:textStyle="bold" />
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- Botón Ver QR -->
-        <!-- No hay material para este imagen, se usa ImageButton -->
         <ImageButton
             android:id="@+id/btnVerQR"
             android:layout_width="72dp"

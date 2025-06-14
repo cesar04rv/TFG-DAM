@@ -9,7 +9,7 @@
     android:background="@color/colorOnBackground"
     >
 
-    <!-- Botones navegación principales -->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -42,7 +42,7 @@
             android:backgroundTint="@color/colorPrimary" />
     </LinearLayout>
 
-    <!-- Botón de volver (único y fijo) -->
+
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnVolverEmpleado"
         style="@style/Widget.Material3.Button.TextButton"
@@ -54,7 +54,6 @@
         android:layout_marginBottom="8dp"
         android:visibility="gone" />
 
-    <!-- Zona scrollable -->
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -65,7 +64,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-            <!-- CREAR -->
+
             <LinearLayout
                 android:id="@+id/layoutCrearEmpleado"
                 android:layout_width="match_parent"
@@ -140,7 +139,6 @@
                     android:backgroundTint="@color/colorPrimary" />
             </LinearLayout>
 
-            <!-- LISTADO -->
             <LinearLayout
                 android:id="@+id/layoutListadoEmpleados"
                 android:layout_width="match_parent"
@@ -148,7 +146,6 @@
                 android:orientation="vertical"
                 android:paddingTop="24dp" />
 
-            <!-- EDITAR -->
             <LinearLayout
                 android:id="@+id/layoutEditarEmpleado"
                 android:layout_width="match_parent"
@@ -164,7 +161,6 @@
                     android:nestedScrollingEnabled="false" />
             </LinearLayout>
 
-            <!-- ELIMINAR -->
             <LinearLayout
                 android:id="@+id/layoutEliminarEmpleado"
                 android:layout_width="match_parent"

@@ -10,7 +10,6 @@
     android:background="@color/colorOnBackground"
     >
 
-    <!-- Botones fijos arriba -->
     <LinearLayout
         android:orientation="horizontal"
         android:gravity="center"
@@ -41,7 +40,6 @@
             android:layout_marginStart="16dp" />
     </LinearLayout>
 
-    <!-- Contenedor del fragmento -->
     <FrameLayout
         android:id="@+id/contenedorContabilidad"
         android:layout_width="match_parent"
