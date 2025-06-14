@@ -1,0 +1,6 @@
+com.cesar.tfg.test.app-androidTest-0 C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\build\generated\res\resValues\androidTest\debug
+com.cesar.tfg.test.app-mergeDebugAndroidTestResources-1 C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.cesar.tfg.test.app-mergeDebugAndroidTestResources-2 C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.cesar.tfg.test.app-debugAndroidTest-3 C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.cesar.tfg.test.app-core-1.5.0-4 C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b241c1858f56033bb9b90854f5cbf40c\transformed\core-1.5.0\res
+com.cesar.tfg.test.app-annotation-experimental-1.3.0-5 C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bb8a2e8197285acdcc4af29e1b02ae43\transformed\annotation-experimental-1.3.0\res

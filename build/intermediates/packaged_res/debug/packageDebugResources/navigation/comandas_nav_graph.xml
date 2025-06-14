@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/comandas_nav_graph"
+    app:startDestination="@id/comandasInicioFragment">
+
+    <!-- Fragmento de inicio -->
+    <fragment
+        android:id="@+id/comandasInicioFragment"
+        android:name="com.cesar.tfg.ComandasInicioFragment"
+        android:label="Inicio Comandas">
+
+        <action
+            android:id="@+id/action_comandasInicioFragment_to_crearComandaFragment"
+            app:destination="@id/crearComandaFragment" />
+
+        <action
+            android:id="@+id/action_comandasInicioFragment_to_misComandasFragment"
+            app:destination="@id/misComandasFragment" />
+
+        <action
+            android:id="@+id/action_comandasInicioFragment_to_comandasHoyFragment"
+            app:destination="@id/comandasHoyFragment" />
+    </fragment>
+
+    <!-- Fragmento para crear comanda -->
+    <fragment
+        android:id="@+id/crearComandaFragment"
+        android:name="com.cesar.tfg.CrearComandaFragment"
+        android:label="Crear Comanda" />
+
+    <!-- Fragmento para "Mis Comandas" -->
+    <fragment
+        android:id="@+id/misComandasFragment"
+        android:name="com.cesar.tfg.MisComandasFragment"
+        android:label="Mis Comandas">
+
+        <action
+            android:id="@+id/actionMisComandasFragmentToEditarComandaFragment"
+            app:destination="@id/editarComandaFragment" />
+    </fragment>
+
+    <!-- Fragmento para "Comandas de Hoy" -->
+    <fragment
+        android:id="@+id/comandasHoyFragment"
+        android:name="com.cesar.tfg.ComandasHoyFragment"
+        android:label="Comandas de hoy">
+
+        <action
+            android:id="@+id/action_comandasHoyFragment_to_editarComandaFragment"
+            app:destination="@id/editarComandaFragment" />
+    </fragment>
+
+    <!-- Fragmento para editar una comanda -->
+    <fragment
+        android:id="@+id/editarComandaFragment"
+        android:name="com.cesar.tfg.EditarComandaFragment"
+        android:label="Editar Comanda">
+        <argument
+            android:name="comandaId"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detalleComandaFragment"
+        android:name="com.cesar.tfg.DetalleComandaFragment"
+        android:label="Detalle Comanda">
+        <argument
+            android:name="comandaId"
+            app:argType="string" />
+    </fragment>
+    <action
+        android:id="@+id/action_comandasHoyFragment_to_comandasInicioFragment"
+        app:destination="@id/comandasInicioFragment" />
+
+    <action
+        android:id="@+id/action_misComandasFragment_to_comandasInicioFragment"
+        app:destination="@id/comandasInicioFragment" />
+
+    <fragment
+        android:id="@+id/qrCartaFragment"
+        android:name="com.cesar.tfg.QrCartaFragment"
+        android:label="QR Carta"
+        tools:layout="@layout/fragment_qr_carta" />
+
+    <action
+        android:id="@+id/action_comandasInicioFragment_to_qrCartaFragment"
+        app:destination="@id/qrCartaFragment" />
+
+</navigation>

@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_crear_comanda.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_crear_comanda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_mis_comandas.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_mis_comandas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\color_bottom_nav_color.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\color\\bottom_nav_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_gestion_contabilidad.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_gestion_contabilidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_activity_plato_host.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_plato_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_dining.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_dining.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_btn_volver_background.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\btn_volver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_qr_code.png.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\qr_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_qr.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_mail.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_content_activity_plato_host.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\content_activity_plato_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\navigation_gestion_nav_graph.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\navigation\\gestion_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_item_plato_vista.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_plato_vista.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_activity_gestion.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_gestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_comandas_inicio.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_comandas_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_item_plato_comanda.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_plato_comanda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_item_header_categoria.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_header_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_plato.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_plato.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_arrow_white.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_arrow_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_item_empleado_vista.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_empleado_vista.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_comandas_finalizadas.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_comandas_finalizadas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_item_mi_comanda.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_mi_comanda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_detalle_comanda.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_detalle_comanda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_bg_rounded_circle.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\bg_rounded_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\menu_gestion_menu.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\menu\\gestion_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_contabilidad_por_fechas.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_contabilidad_por_fechas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_empleado.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_empleado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_item_plato.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_plato.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_lista_comandas_contabilidad.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_lista_comandas_contabilidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_item_comanda_contabilidad.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_comanda_contabilidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_item_empleado.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_empleado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_editar_comanda.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_editar_comanda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_comandas_hoy.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_comandas_hoy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\color_checkbox_tint.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\color\\checkbox_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_empleados.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_empleados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_contabilidad.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_contabilidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_activity_comandas.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\activity_comandas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_fragment_qr_carta.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\fragment_qr_carta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\navigation_comandas_nav_graph.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\navigation\\comandas_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\drawable_ic_empleados.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\drawable\\ic_empleados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\layout_item_categoria_card.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\layout\\item_categoria_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.cesar.tfg.app-debug-5:/layout_fragment_empleados.xml.flat",
+        "source": "com.cesar.tfg.app-main-7:/layout/fragment_empleados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-debug-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Cesar\\Desktop\\TFG-Final\\TFGDAM-main\\daemon\\8.11.1\\com.cesar.tfg.app-main-7:\\xml\\data_extraction_rules.xml"
+    }
+]

@@ -1,0 +1,3 @@
+com.cesar.tfg.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

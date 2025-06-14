@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/gestion_nav_graph"
+    app:startDestination="@id/nav_platos">
+
+    <fragment
+        android:id="@+id/nav_platos"
+        android:name="com.cesar.tfg.PlatoFragment"
+        android:label="Platos" />
+
+    <fragment
+        android:id="@+id/nav_empleados"
+        android:name="com.cesar.tfg.GestionEmpleadosFragment"
+        android:label="Empleados" />
+
+    <fragment
+        android:id="@+id/nav_contabilidad"
+        android:name="com.cesar.tfg.GestionContabilidadFragment"
+        android:label="Contabilidad" />
+
+    <fragment
+        android:id="@+id/detalleComandaFragment"
+        android:name="com.cesar.tfg.DetalleComandaFragment"
+        android:label="Detalle Comanda">
+        <argument
+            android:name="comandaId"
+            app:argType="string" />
+    </fragment>
+
+    <action
+        android:id="@+id/actionGlobalDetalleComandaFragment"
+        app:destination="@id/detalleComandaFragment" />
+</navigation>

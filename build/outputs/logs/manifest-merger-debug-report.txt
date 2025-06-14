@@ -1,0 +1,1022 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4cf20d33e6d8e55b0b65f469ff00abf7\transformed\viewbinding-8.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ed2889e865524c252caa065e5883c4\transformed\navigation-common-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\99fdf8d9b8d48209345b0ce65865d786\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e6b413428a7f12e49f1c6d6025a8c2be\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\fe010ff493bfe0e04b46812dd21dea75\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1d213cde92baa4a9eb632654b86b82d0\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\42f56af769d45a672428c2e6e5d02a61\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\15fe72a19cf990fd8964752d501c5ebc\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\0409bb11b4a78fd3228889f57495d965\transformed\navigation-ui-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d281c38f5fc8d014cc7eaf165ecef0d2\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\321abb055a465f907fc8bd16454bf6c5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\034dda0037b18a87e8e2e37f84714f76\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\dcd08e4fbfa3a104a8c78ed8d8ffc857\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c47adf8a6d8fcd663422bc07eb504776\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7ffe2dfe2250638a474292c4c6c5a7b5\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\cbdd7c8a0c3255c7ba00bce2edc01198\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6835e45b2fc06eb0afd484f11b0f3b1c\transformed\firebase-firestore-ktx-25.1.4\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-functions-ktx:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\09c55ff8dc000489b5e31e8bdd56eae9\transformed\firebase-functions-ktx-21.2.1\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\5bf60d6cecbc7235040115c9ecc3d9fb\transformed\firebase-analytics-22.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a3e9ce94f84dec6ee3f72ba5e0519409\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e3b01085ac29fe33a4f5e6df43b9c8a8\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\404a51832651514b51d2531aabb94d39\transformed\play-services-measurement-sdk-22.4.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8b76ab254448081b1fcd624284011723\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8d7b8b094025a0717f48eaf204fe6af9\transformed\recaptcha-18.6.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ef007a40c2029ff35382e3b37c16dbe7\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\469b0f0868e8ed78fd84421b117ec53a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\494e5bbc2da94de66bad0cc541ad5d28\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\42b1203f7c9bedec3dc0ae2e6a8437e7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3d4fbfe08f18f2aa0cc1ea53c5c656f3\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7377424d6e72b24a626e91a768a39d6d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\57b9e68fed30902a8cd813683c26caec\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9607de2bde1a8fa5ae8ce1fdece193c6\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88eb54312348456cf2a52dc860ce0f5f\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7ac2f317804408a8201b90da86319a55\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e389903589776a4846c448d0d15d0413\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b4866cbfa32249b7f0d9378d1a00f053\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e1d8b4d8ede426a4e3e4e64cdb832e7d\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f47967558678a85c5ab09a7f2c58e525\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\112a536ef8d891bcee5d35d87739d071\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6f025f8ab14bbfbd7eeee201d2768b83\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\646ea78ac614b508debe8476260b0a95\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\42a14dab98dce907dd03470f0078d02d\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\13cf419ef04e9f42b73a00cdccc204b2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\577bab0120380d636f211fbe828020c2\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7aaa0998dfb8a1c332364485a237d84d\transformed\integrity-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\90c4f3dca04aa44073e597bb2652f904\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\fffdee3d0c02a6d3b5cc653582955629\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3e20df248d37cd6e4eba187f3da246ba\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\2bccd0f42b42b463c9619d88b61c8611\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7bdf1c0afa51e16c727f5c05ef345fc8\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bccfa0001081160603871927d7ddace2\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8751a22a60ea64a2d54c097ec95f9bde\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88df4a8a9f87c1579c6b16d49e8a6a98\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b27b206e9ee09128ae6b4d0a5d0e9cc7\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f7ae34336829d3a8bafd8f623a6efe40\transformed\play-services-measurement-base-22.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3f10b8bd57ee909a9c5fd947442936f0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d7f6ec9ce986cb962567801df8a5169f\transformed\play-services-basement-18.5.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\132828f0b47a0420802e2bcf48a0c127\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9e47f0ad416f5315d24f123c2a437368\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\385e91bacf246b18e96ad34c20920cc2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\814230da80f2e1742a5dfc5428dd6cbf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f350da477de6092c18e6376d9a7787d1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d66ff1696900ca44930cbfe30ab815c2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\af60bbfa9bad540bdccf292fc5f2bce0\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8ed1c2b4db91d2152e7dcf374aa17315\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6e5a2e57d15a6e9895a708d6f969abe8\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\97f947d13b37d3399690c82912f86cf0\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\092199c707a0723680f9b9534c0110a1\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec078d838e7166cc1fded8c8c6b84b3e\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\29091e4aff3136cd84266e0767522468\transformed\googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bb8a2e8197285acdcc4af29e1b02ae43\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3b6b1d94e0b12af6d06d6b18f1f65391\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bdcefe5a9ceb1db2d45ca4d196497564\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b7a912d04a914448d5f302c143f44b65\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\312cd158009b17b8604ffb86941c6dac\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d407dd7c219b90e07b953bdccfd5e93\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\dad88d304a2a72cff4e2be9e4727a7e0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1494a54ecd5831c1a4d76fbf080cd87f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\73002f0374ef73f6dce305cf535a3950\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f3613860df34d8ca0b9ef69179284e11\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8ae3c48e618c09e0fb8c243a73402d72\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c0f0fdf4b687ab1b83b70989af3d9bbf\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:17:1-56:12
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\748e15295d0e9f2ea2eecfe1d473bed9\transformed\grpc-android-1.62.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\aa2fca0db81bd4fbc3d0aea9b13efe60\transformed\protolite-well-known-types-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ca369e8edfa851fba7bab949894bf1\transformed\core-common-2.0.3\AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8d7b8b094025a0717f48eaf204fe6af9\transformed\recaptcha-18.6.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8d7b8b094025a0717f48eaf204fe6af9\transformed\recaptcha-18.6.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8d7b8b094025a0717f48eaf204fe6af9\transformed\recaptcha-18.6.1\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8d7b8b094025a0717f48eaf204fe6af9\transformed\recaptcha-18.6.1\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\748e15295d0e9f2ea2eecfe1d473bed9\transformed\grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\748e15295d0e9f2ea2eecfe1d473bed9\transformed\grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:8:5-45:19
+INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:8:5-45:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d281c38f5fc8d014cc7eaf165ecef0d2\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d281c38f5fc8d014cc7eaf165ecef0d2\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\321abb055a465f907fc8bd16454bf6c5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\321abb055a465f907fc8bd16454bf6c5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6835e45b2fc06eb0afd484f11b0f3b1c\transformed\firebase-firestore-ktx-25.1.4\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6835e45b2fc06eb0afd484f11b0f3b1c\transformed\firebase-firestore-ktx-25.1.4\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-functions-ktx:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\09c55ff8dc000489b5e31e8bdd56eae9\transformed\firebase-functions-ktx-21.2.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-functions-ktx:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\09c55ff8dc000489b5e31e8bdd56eae9\transformed\firebase-functions-ktx-21.2.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-analytics:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\5bf60d6cecbc7235040115c9ecc3d9fb\transformed\firebase-analytics-22.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\5bf60d6cecbc7235040115c9ecc3d9fb\transformed\firebase-analytics-22.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a3e9ce94f84dec6ee3f72ba5e0519409\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a3e9ce94f84dec6ee3f72ba5e0519409\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e3b01085ac29fe33a4f5e6df43b9c8a8\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e3b01085ac29fe33a4f5e6df43b9c8a8\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\404a51832651514b51d2531aabb94d39\transformed\play-services-measurement-sdk-22.4.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\404a51832651514b51d2531aabb94d39\transformed\play-services-measurement-sdk-22.4.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\494e5bbc2da94de66bad0cc541ad5d28\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\494e5bbc2da94de66bad0cc541ad5d28\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9607de2bde1a8fa5ae8ce1fdece193c6\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9607de2bde1a8fa5ae8ce1fdece193c6\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\13cf419ef04e9f42b73a00cdccc204b2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\13cf419ef04e9f42b73a00cdccc204b2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7aaa0998dfb8a1c332364485a237d84d\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7aaa0998dfb8a1c332364485a237d84d\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\90c4f3dca04aa44073e597bb2652f904\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\90c4f3dca04aa44073e597bb2652f904\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\fffdee3d0c02a6d3b5cc653582955629\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\fffdee3d0c02a6d3b5cc653582955629\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3e20df248d37cd6e4eba187f3da246ba\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3e20df248d37cd6e4eba187f3da246ba\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bccfa0001081160603871927d7ddace2\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bccfa0001081160603871927d7ddace2\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88df4a8a9f87c1579c6b16d49e8a6a98\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88df4a8a9f87c1579c6b16d49e8a6a98\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b27b206e9ee09128ae6b4d0a5d0e9cc7\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b27b206e9ee09128ae6b4d0a5d0e9cc7\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f7ae34336829d3a8bafd8f623a6efe40\transformed\play-services-measurement-base-22.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f7ae34336829d3a8bafd8f623a6efe40\transformed\play-services-measurement-base-22.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3f10b8bd57ee909a9c5fd947442936f0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3f10b8bd57ee909a9c5fd947442936f0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d7f6ec9ce986cb962567801df8a5169f\transformed\play-services-basement-18.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d7f6ec9ce986cb962567801df8a5169f\transformed\play-services-basement-18.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\dad88d304a2a72cff4e2be9e4727a7e0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\dad88d304a2a72cff4e2be9e4727a7e0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1494a54ecd5831c1a4d76fbf080cd87f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1494a54ecd5831c1a4d76fbf080cd87f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ca369e8edfa851fba7bab949894bf1\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ca369e8edfa851fba7bab949894bf1\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:16:9-41
+	android:dataExtractionRules
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:10:9-65
+activity#com.cesar.tfg.View.Activity.GestionActivity
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:18:9-21:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:21:13-55
+	android:exported
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:19:13-58
+activity#com.cesar.tfg.View.Activity.PlatoHostActivity
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:22:9-25:40
+	android:windowSoftInputMode
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:24:13-55
+	android:exported
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:23:13-60
+activity#com.cesar.tfg.View.Activity.ComandasActivity
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:28:13-59
+activity#com.cesar.tfg.View.Activity.MainActivity
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:31:13-55
+activity#com.cesar.tfg.View.Activity.RegisterActivity
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:34:13-59
+activity#com.cesar.tfg.View.Activity.LoginActivity
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:exported
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:37:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4cf20d33e6d8e55b0b65f469ff00abf7\transformed\viewbinding-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4cf20d33e6d8e55b0b65f469ff00abf7\transformed\viewbinding-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ed2889e865524c252caa065e5883c4\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ed2889e865524c252caa065e5883c4\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\99fdf8d9b8d48209345b0ce65865d786\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\99fdf8d9b8d48209345b0ce65865d786\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e6b413428a7f12e49f1c6d6025a8c2be\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e6b413428a7f12e49f1c6d6025a8c2be\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\fe010ff493bfe0e04b46812dd21dea75\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\fe010ff493bfe0e04b46812dd21dea75\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1d213cde92baa4a9eb632654b86b82d0\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1d213cde92baa4a9eb632654b86b82d0\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\42f56af769d45a672428c2e6e5d02a61\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\42f56af769d45a672428c2e6e5d02a61\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\15fe72a19cf990fd8964752d501c5ebc\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\15fe72a19cf990fd8964752d501c5ebc\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\0409bb11b4a78fd3228889f57495d965\transformed\navigation-ui-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.5] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\0409bb11b4a78fd3228889f57495d965\transformed\navigation-ui-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d281c38f5fc8d014cc7eaf165ecef0d2\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d281c38f5fc8d014cc7eaf165ecef0d2\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\321abb055a465f907fc8bd16454bf6c5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\321abb055a465f907fc8bd16454bf6c5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\034dda0037b18a87e8e2e37f84714f76\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\034dda0037b18a87e8e2e37f84714f76\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\dcd08e4fbfa3a104a8c78ed8d8ffc857\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\dcd08e4fbfa3a104a8c78ed8d8ffc857\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c47adf8a6d8fcd663422bc07eb504776\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c47adf8a6d8fcd663422bc07eb504776\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7ffe2dfe2250638a474292c4c6c5a7b5\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7ffe2dfe2250638a474292c4c6c5a7b5\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\cbdd7c8a0c3255c7ba00bce2edc01198\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\cbdd7c8a0c3255c7ba00bce2edc01198\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6835e45b2fc06eb0afd484f11b0f3b1c\transformed\firebase-firestore-ktx-25.1.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6835e45b2fc06eb0afd484f11b0f3b1c\transformed\firebase-firestore-ktx-25.1.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-functions-ktx:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\09c55ff8dc000489b5e31e8bdd56eae9\transformed\firebase-functions-ktx-21.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-functions-ktx:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\09c55ff8dc000489b5e31e8bdd56eae9\transformed\firebase-functions-ktx-21.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\5bf60d6cecbc7235040115c9ecc3d9fb\transformed\firebase-analytics-22.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\5bf60d6cecbc7235040115c9ecc3d9fb\transformed\firebase-analytics-22.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a3e9ce94f84dec6ee3f72ba5e0519409\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a3e9ce94f84dec6ee3f72ba5e0519409\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e3b01085ac29fe33a4f5e6df43b9c8a8\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e3b01085ac29fe33a4f5e6df43b9c8a8\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\404a51832651514b51d2531aabb94d39\transformed\play-services-measurement-sdk-22.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\404a51832651514b51d2531aabb94d39\transformed\play-services-measurement-sdk-22.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8b76ab254448081b1fcd624284011723\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8b76ab254448081b1fcd624284011723\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8d7b8b094025a0717f48eaf204fe6af9\transformed\recaptcha-18.6.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8d7b8b094025a0717f48eaf204fe6af9\transformed\recaptcha-18.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ef007a40c2029ff35382e3b37c16dbe7\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ef007a40c2029ff35382e3b37c16dbe7\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\469b0f0868e8ed78fd84421b117ec53a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\469b0f0868e8ed78fd84421b117ec53a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\494e5bbc2da94de66bad0cc541ad5d28\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\494e5bbc2da94de66bad0cc541ad5d28\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\42b1203f7c9bedec3dc0ae2e6a8437e7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\42b1203f7c9bedec3dc0ae2e6a8437e7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3d4fbfe08f18f2aa0cc1ea53c5c656f3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3d4fbfe08f18f2aa0cc1ea53c5c656f3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7377424d6e72b24a626e91a768a39d6d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7377424d6e72b24a626e91a768a39d6d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\57b9e68fed30902a8cd813683c26caec\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\57b9e68fed30902a8cd813683c26caec\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9607de2bde1a8fa5ae8ce1fdece193c6\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9607de2bde1a8fa5ae8ce1fdece193c6\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88eb54312348456cf2a52dc860ce0f5f\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88eb54312348456cf2a52dc860ce0f5f\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7ac2f317804408a8201b90da86319a55\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7ac2f317804408a8201b90da86319a55\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e389903589776a4846c448d0d15d0413\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e389903589776a4846c448d0d15d0413\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b4866cbfa32249b7f0d9378d1a00f053\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b4866cbfa32249b7f0d9378d1a00f053\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e1d8b4d8ede426a4e3e4e64cdb832e7d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e1d8b4d8ede426a4e3e4e64cdb832e7d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f47967558678a85c5ab09a7f2c58e525\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f47967558678a85c5ab09a7f2c58e525\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\112a536ef8d891bcee5d35d87739d071\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\112a536ef8d891bcee5d35d87739d071\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6f025f8ab14bbfbd7eeee201d2768b83\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6f025f8ab14bbfbd7eeee201d2768b83\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\646ea78ac614b508debe8476260b0a95\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\646ea78ac614b508debe8476260b0a95\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\42a14dab98dce907dd03470f0078d02d\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\42a14dab98dce907dd03470f0078d02d\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\13cf419ef04e9f42b73a00cdccc204b2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\13cf419ef04e9f42b73a00cdccc204b2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\577bab0120380d636f211fbe828020c2\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\577bab0120380d636f211fbe828020c2\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7aaa0998dfb8a1c332364485a237d84d\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7aaa0998dfb8a1c332364485a237d84d\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\90c4f3dca04aa44073e597bb2652f904\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\90c4f3dca04aa44073e597bb2652f904\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\fffdee3d0c02a6d3b5cc653582955629\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\fffdee3d0c02a6d3b5cc653582955629\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3e20df248d37cd6e4eba187f3da246ba\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3e20df248d37cd6e4eba187f3da246ba\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\2bccd0f42b42b463c9619d88b61c8611\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\2bccd0f42b42b463c9619d88b61c8611\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7bdf1c0afa51e16c727f5c05ef345fc8\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\7bdf1c0afa51e16c727f5c05ef345fc8\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bccfa0001081160603871927d7ddace2\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bccfa0001081160603871927d7ddace2\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8751a22a60ea64a2d54c097ec95f9bde\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8751a22a60ea64a2d54c097ec95f9bde\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88df4a8a9f87c1579c6b16d49e8a6a98\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88df4a8a9f87c1579c6b16d49e8a6a98\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b27b206e9ee09128ae6b4d0a5d0e9cc7\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b27b206e9ee09128ae6b4d0a5d0e9cc7\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f7ae34336829d3a8bafd8f623a6efe40\transformed\play-services-measurement-base-22.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f7ae34336829d3a8bafd8f623a6efe40\transformed\play-services-measurement-base-22.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3f10b8bd57ee909a9c5fd947442936f0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3f10b8bd57ee909a9c5fd947442936f0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d7f6ec9ce986cb962567801df8a5169f\transformed\play-services-basement-18.5.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d7f6ec9ce986cb962567801df8a5169f\transformed\play-services-basement-18.5.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\132828f0b47a0420802e2bcf48a0c127\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\132828f0b47a0420802e2bcf48a0c127\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9e47f0ad416f5315d24f123c2a437368\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9e47f0ad416f5315d24f123c2a437368\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\385e91bacf246b18e96ad34c20920cc2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\385e91bacf246b18e96ad34c20920cc2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\814230da80f2e1742a5dfc5428dd6cbf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\814230da80f2e1742a5dfc5428dd6cbf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f350da477de6092c18e6376d9a7787d1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f350da477de6092c18e6376d9a7787d1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d66ff1696900ca44930cbfe30ab815c2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d66ff1696900ca44930cbfe30ab815c2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\af60bbfa9bad540bdccf292fc5f2bce0\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\af60bbfa9bad540bdccf292fc5f2bce0\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8ed1c2b4db91d2152e7dcf374aa17315\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8ed1c2b4db91d2152e7dcf374aa17315\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6e5a2e57d15a6e9895a708d6f969abe8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6e5a2e57d15a6e9895a708d6f969abe8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\97f947d13b37d3399690c82912f86cf0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\97f947d13b37d3399690c82912f86cf0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\092199c707a0723680f9b9534c0110a1\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\092199c707a0723680f9b9534c0110a1\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec078d838e7166cc1fded8c8c6b84b3e\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec078d838e7166cc1fded8c8c6b84b3e\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\29091e4aff3136cd84266e0767522468\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\29091e4aff3136cd84266e0767522468\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bb8a2e8197285acdcc4af29e1b02ae43\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bb8a2e8197285acdcc4af29e1b02ae43\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3b6b1d94e0b12af6d06d6b18f1f65391\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3b6b1d94e0b12af6d06d6b18f1f65391\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bdcefe5a9ceb1db2d45ca4d196497564\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bdcefe5a9ceb1db2d45ca4d196497564\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b7a912d04a914448d5f302c143f44b65\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b7a912d04a914448d5f302c143f44b65\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\312cd158009b17b8604ffb86941c6dac\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\312cd158009b17b8604ffb86941c6dac\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d407dd7c219b90e07b953bdccfd5e93\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d407dd7c219b90e07b953bdccfd5e93\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\dad88d304a2a72cff4e2be9e4727a7e0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\dad88d304a2a72cff4e2be9e4727a7e0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1494a54ecd5831c1a4d76fbf080cd87f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1494a54ecd5831c1a4d76fbf080cd87f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\73002f0374ef73f6dce305cf535a3950\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\73002f0374ef73f6dce305cf535a3950\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f3613860df34d8ca0b9ef69179284e11\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f3613860df34d8ca0b9ef69179284e11\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8ae3c48e618c09e0fb8c243a73402d72\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8ae3c48e618c09e0fb8c243a73402d72\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c0f0fdf4b687ab1b83b70989af3d9bbf\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c0f0fdf4b687ab1b83b70989af3d9bbf\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\748e15295d0e9f2ea2eecfe1d473bed9\transformed\grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\748e15295d0e9f2ea2eecfe1d473bed9\transformed\grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\aa2fca0db81bd4fbc3d0aea9b13efe60\transformed\protolite-well-known-types-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\aa2fca0db81bd4fbc3d0aea9b13efe60\transformed\protolite-well-known-types-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ca369e8edfa851fba7bab949894bf1\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ca369e8edfa851fba7bab949894bf1\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9607de2bde1a8fa5ae8ce1fdece193c6\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9607de2bde1a8fa5ae8ce1fdece193c6\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1494a54ecd5831c1a4d76fbf080cd87f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1494a54ecd5831c1a4d76fbf080cd87f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\822a3eacce9b5825182ed246c0f1bc93\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6835e45b2fc06eb0afd484f11b0f3b1c\transformed\firebase-firestore-ktx-25.1.4\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6835e45b2fc06eb0afd484f11b0f3b1c\transformed\firebase-firestore-ktx-25.1.4\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-functions-ktx:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\09c55ff8dc000489b5e31e8bdd56eae9\transformed\firebase-functions-ktx-21.2.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-functions-ktx:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\09c55ff8dc000489b5e31e8bdd56eae9\transformed\firebase-functions-ktx-21.2.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a3e9ce94f84dec6ee3f72ba5e0519409\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a3e9ce94f84dec6ee3f72ba5e0519409\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\14ac132901379412868b33954899e414\transformed\firebase-auth-23.2.0\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6835e45b2fc06eb0afd484f11b0f3b1c\transformed\firebase-firestore-ktx-25.1.4\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6835e45b2fc06eb0afd484f11b0f3b1c\transformed\firebase-firestore-ktx-25.1.4\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\6835e45b2fc06eb0afd484f11b0f3b1c\transformed\firebase-firestore-ktx-25.1.4\AndroidManifest.xml:13:17-129
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.4] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec4ecb9a6653441d998bb04a92135493\transformed\firebase-firestore-25.1.4\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.functions.ktx.FirebaseFunctionsLegacyRegistrar
+ADDED from [com.google.firebase:firebase-functions-ktx:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\09c55ff8dc000489b5e31e8bdd56eae9\transformed\firebase-functions-ktx-21.2.1\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-functions-ktx:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\09c55ff8dc000489b5e31e8bdd56eae9\transformed\firebase-functions-ktx-21.2.1\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-functions-ktx:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\09c55ff8dc000489b5e31e8bdd56eae9\transformed\firebase-functions-ktx-21.2.1\AndroidManifest.xml:13:17-129
+meta-data#com.google.firebase.components:com.google.firebase.functions.FirebaseFunctionsKtxRegistrar
+ADDED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:16:17-122
+meta-data#com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar
+ADDED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-functions:21.2.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c27de7332699e4b24c1b49e6150b37c6\transformed\firebase-functions-21.2.1\AndroidManifest.xml:19:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b27b206e9ee09128ae6b4d0a5d0e9cc7\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\b27b206e9ee09128ae6b4d0a5d0e9cc7\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\e101ad43d8de9a51883445ae272e14af\transformed\play-services-measurement-sdk-api-22.4.0\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:27:22-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\f2b8964119d1d4aeada3b2e2176dc8d8\transformed\play-services-measurement-api-22.4.0\AndroidManifest.xml:34:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\888dfb1b9c4f22db989eca4c59228227\transformed\play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9d5b4dd6e1884a44c8677396ca2e7f61\transformed\firebase-iid-21.1.0\AndroidManifest.xml:33:17-96
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a185f8f8e38c1edb217d09950fcebd15\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a3e9ce94f84dec6ee3f72ba5e0519409\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a3e9ce94f84dec6ee3f72ba5e0519409\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\a3e9ce94f84dec6ee3f72ba5e0519409\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\ec0f9cc0606b1732502b32b0281f170f\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\238b4ccf6af67f8d8e9fdb02440ff751\transformed\play-services-measurement-impl-22.4.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.4.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c636d1b812dab85f734151af24746bcc\transformed\play-services-measurement-22.4.0\AndroidManifest.xml:40:13-87
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\3a9ddd998445a734377463ea9d0595b8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8d7b8b094025a0717f48eaf204fe6af9\transformed\recaptcha-18.6.1\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\8d7b8b094025a0717f48eaf204fe6af9\transformed\recaptcha-18.6.1\AndroidManifest.xml:9:22-95
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9607de2bde1a8fa5ae8ce1fdece193c6\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9607de2bde1a8fa5ae8ce1fdece193c6\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\9607de2bde1a8fa5ae8ce1fdece193c6\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\acc18ead6ec5b2a4b04fbfa0203aacb2\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\13cf419ef04e9f42b73a00cdccc204b2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\13cf419ef04e9f42b73a00cdccc204b2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\13cf419ef04e9f42b73a00cdccc204b2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:24:13-50
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\1506442fc6625cd2b0b4e88988c2e6d7\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bccfa0001081160603871927d7ddace2\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bccfa0001081160603871927d7ddace2\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bccfa0001081160603871927d7ddace2\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\bccfa0001081160603871927d7ddace2\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d7f6ec9ce986cb962567801df8a5169f\transformed\play-services-basement-18.5.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d7f6ec9ce986cb962567801df8a5169f\transformed\play-services-basement-18.5.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\d7f6ec9ce986cb962567801df8a5169f\transformed\play-services-basement-18.5.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.cesar.tfg.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.cesar.tfg.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\4ffc636ff922903979124a4223e82d64\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\c4adfbf693a6df4163e771cc4f40ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\88fd847c0deab233a60d62978ab364cf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ca369e8edfa851fba7bab949894bf1\transformed\core-common-2.0.3\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ca369e8edfa851fba7bab949894bf1\transformed\core-common-2.0.3\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ca369e8edfa851fba7bab949894bf1\transformed\core-common-2.0.3\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ca369e8edfa851fba7bab949894bf1\transformed\core-common-2.0.3\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Cesar\Desktop\TFG-Final\TFGDAM-main\caches\8.11.1\transforms\69ca369e8edfa851fba7bab949894bf1\transformed\core-common-2.0.3\AndroidManifest.xml:15:13-93
